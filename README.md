@@ -25,6 +25,22 @@
 
 ---
 
+### ¿Cansado de usar una consola rígida que te impide avanzar con fluidez?
+
+<p align="center">
+  <img src="resources/claude-cli.png" alt="Consola tradicional Claude Code CLI" width="100%" />
+</p>
+
+> **No te preocupes:** **Claude Code Interface** es la solución definitiva. Olvídate de terminales toscas que limitan tu espacio de trabajo: disfruta de una cápsula flotante translúcida siempre visible, soporte para múltiples pestañas de proyectos en simultáneo, capturas de pantalla inteligentes, modo LockScreen y control total con un clic.
+
+<p align="center">
+  <video src="resources/video.mp4" controls="controls" width="100%"></video>
+</p>
+
+> 💡 *¿No puedes reproducir el video en tu navegador? [Haz clic aquí para ver o descargar el video de demostración (video.mp4)](resources/video.mp4).*
+
+---
+
 ## Descripción General
 
 Claude Code Interface proporciona una capa gráfica flotante (*Always-on-top*) para la herramienta oficial de línea de comandos de Anthropic, **Claude Code**. Su objetivo es simplificar la interacción diaria con el asistente de código, permitiendo revisar respuestas en Markdown con resaltado de sintaxis, gestionar permisos de herramientas, adjuntar archivos y capturas de pantalla, y administrar múltiples sesiones concurrentes sin necesidad de mantener terminales abiertas manualmente.
@@ -105,24 +121,24 @@ No se requiere clonar el código fuente ni compilar artefactos locales:
 
 | Acción | Atajo / Control |
 |---|---|
-| Mostrar / Ocultar (Minimizar) | `Ctrl + Shift + K` o `Alt + Espacio` |
-| Mover ventana | Arrastrar con clic izquierdo sobre el área de cabecera (con LockScreen inactivo) |
-| Bloquear posición y permitir copiado | Activar **LockScreen** en el menú de ajustes (`...`) |
-| Alternar panel expandido / compacto | Clic sobre la pestaña activa |
-| Cerrar pestaña activa | Botón de cierre (`X`) en la pestaña |
-| Ajustes rápidos | Menú contextual (`...`) |
-| Historial de sesiones | Botón de historial (`Reloj`) |
+| **Mostrar / Ocultar (Minimizar)** | `Ctrl + Shift + K` o `Alt + Espacio` |
+| **Mover ventana** | Arrastrar con clic izquierdo sobre la barra o áreas libres (con *LockScreen* desactivado) |
+| **Bloquear posición y Habilitar Copia** | Activar **LockScreen** en el menú de tres puntos (`...`) |
+| **Expandir / Contraer cápsula** | Clic en la pestaña activa |
+| **Cerrar pestaña** | Clic en el botón **×** de la pestaña |
+| **Menú de configuración** | Clic en el botón `...` (Ancho completo, LockScreen, Sonidos, Tema) |
+| **Historial de sesiones** | Clic en el botón de historial `🕒` |
 
 ---
 
 ## Créditos y Reconocimientos
 
-Este proyecto está basado en la idea y desarrollo original de **[siteboon/claudecodeui](https://github.com/siteboon/claudecodeui)**.
+Este proyecto está basado en el trabajo original de **[siteboon/claudecodeui](https://github.com/siteboon/claudecodeui)**.
 
-Agradecemos a **siteboon** por la creación de la arquitectura base concebida originalmente para macOS. Este repositorio alberga el **port independiente para Windows**, optimizado para ejecución portable y complementado con soporte multi-pantalla, modo LockScreen, bloqueo de instancias duplicadas y gestión de historial.
+Agradecemos a **siteboon** por la concepción inicial de la interfaz gráfica para macOS. A partir de dicho desarrollo, se ha construido este **port nativo para Windows**, incorporando el empaquetado portable (`.exe`), correcciones de compatibilidad multi-monitor, control de instancias duplicadas, modo LockScreen, gestión avanzada de sesiones y compatibilidad ampliada con proxies y proveedores de IA.
 
 ---
 
 ## Licencia
 
-Distribuido bajo los términos de la licencia [MIT](LICENSE).
+Este proyecto se distribuye bajo la licencia [MIT](LICENSE).
