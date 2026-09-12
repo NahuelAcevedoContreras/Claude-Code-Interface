@@ -33,6 +33,10 @@
 
 > **No te preocupes:** **Claude Code Interface** es la solución definitiva. Olvídate de terminales toscas que limitan tu espacio de trabajo: disfruta de una cápsula flotante translúcida siempre visible, soporte para múltiples pestañas de proyectos en simultáneo, capturas de pantalla inteligentes, modo LockScreen y control total con un clic.
 
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/4d8f099b-68ab-4611-9d53-89ab45677c41" controls="controls" width="100%"></video>
+</p>
+
 ---
 
 ## Descripción General
