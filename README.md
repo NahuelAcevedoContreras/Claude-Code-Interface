@@ -34,10 +34,18 @@
 > **No te preocupes:** **Claude Code Interface** es la solución definitiva. Olvídate de terminales toscas que limitan tu espacio de trabajo: disfruta de una cápsula flotante translúcida siempre visible, soporte para múltiples pestañas de proyectos en simultáneo, capturas de pantalla inteligentes, modo LockScreen y control total con un clic.
 
 <p align="center">
-  <video src="resources/video.mp4" controls="controls" width="100%"></video>
+  <img src="resources/demo.gif" alt="Demostración animada de Claude Code Interface" width="100%" />
 </p>
 
-> 💡 *¿No puedes reproducir el video en tu navegador? [Haz clic aquí para ver o descargar el video de demostración (video.mp4)](resources/video.mp4).*
+<p align="center">
+  <a href="https://github.com/NahuelAcevedoContreras/Claude-Code-Interface/blob/main/resources/video.mp4">
+    <img src="resources/video-card.png" alt="Ver Demostración Completa en Video" width="100%" />
+  </a>
+  <br>
+  <a href="https://github.com/NahuelAcevedoContreras/Claude-Code-Interface/blob/main/resources/video.mp4">
+    <strong>▶️ Haz clic aquí para ver el video completo en alta resolución (2:37 min) en el reproductor de GitHub</strong>
+  </a>
+</p>
 
 ---
 
