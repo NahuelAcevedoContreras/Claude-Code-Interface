@@ -131,9 +131,9 @@ No se requiere clonar el código fuente ni compilar artefactos locales:
 
 ## Créditos y Reconocimientos
 
-Este proyecto está basado en el trabajo original de **[siteboon/claudecodeui](https://github.com/siteboon/claudecodeui)**.
+Este proyecto está basado en el trabajo original de **[siteboon/claudecodeui](https://github.com/lcoutodemos/clui-cc)**.
 
-Agradecemos a **siteboon** por la concepción inicial de la interfaz gráfica para macOS. A partir de dicho desarrollo, se ha construido este **port nativo para Windows**, incorporando el empaquetado portable (`.exe`), correcciones de compatibilidad multi-monitor, control de instancias duplicadas, modo LockScreen, gestión avanzada de sesiones y compatibilidad ampliada con proxies y proveedores de IA.
+Agradecemos a **Lucas Couto** por la concepción inicial de la interfaz gráfica para macOS. A partir de dicho desarrollo, se ha construido este **port nativo para Windows**, incorporando el empaquetado portable (`.exe`), correcciones de compatibilidad multi-monitor, control de instancias duplicadas, modo LockScreen, gestión avanzada de sesiones y compatibilidad ampliada con proxies y proveedores de IA.
 
 ---
 
